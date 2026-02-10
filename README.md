@@ -1,2 +1,2 @@
 # FullStackOpen
-Fullstackopen Exercises 
+FullStackOpen Exercises 
